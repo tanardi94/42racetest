@@ -1,0 +1,19 @@
+{
+  "name": "42racetest",
+  "version": "1.0.0",
+  "description": "for 42 race assessment testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tanardi94/42racetest.git"
+  },
+  "author": "tanardi94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanardi94/42racetest/issues"
+  },
+  "homepage": "https://github.com/tanardi94/42racetest#readme"
+}
